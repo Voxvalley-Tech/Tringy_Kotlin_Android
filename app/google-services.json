@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094713799279",
+    "firebase_url": "https://softtalkmessanger.firebaseio.com",
+    "project_id": "softtalkmessanger",
+    "storage_bucket": "softtalkmessanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094713799279:android:f5f9016b1aa272b2",
+        "android_client_info": {
+          "package_name": "com.example.kotlinexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094713799279-7ma0ck5l5mdsg4ca29i4j8tomft94j1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADVn9ommpWnF-KpI8-6xjHPCV21yzdyXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094713799279-7ma0ck5l5mdsg4ca29i4j8tomft94j1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

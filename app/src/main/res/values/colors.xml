@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1352a1</color>
+    <color name="colorPrimaryDark">#0b4389</color>
+    <color name="colorSecondary">#266dc6</color>
+    <color name="colorAccent">#5265bc</color>
+    <color name="white">#ffffff</color>
+    <color name="color_bg">#1352a1</color>
+    <color name="background_color">#66000000</color>
+    <color name="background_color_checkbox">#1352a1</color>
+    <color name="background_home_pages">#ffffff</color>
+    <color name="colorPrimary_text">#1352a1</color>
+
+    <color name="theme_color">#1352a1</color>
+    <color name="light_violet">#B869F7</color>
+    <color name="login_bg">#f2dbdb</color>
+    <color name="black_50">#80000000</color>
+    <color name="dialog_background_color">#fafafa</color>
+    <color name="dialog_background_scrim">#99323232</color>
+    <color name="contacts_button_text_normal">@color/black</color>
+    <color name="contacts_button_text_hover">@color/theme_color</color>
+    <color name="chat_send_button_normal">#c6c6c6</color>
+
+
+    <color name="pink">#E010BF</color>
+    <color name="gray">#836F92</color>
+    <color name="green">#30ac63</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_80">#80000000</color>
+    <color name="light_gray">#8b9cea</color>
+    <color name="disable1">#f5f4f4</color>
+    <color name="disable">#dfdada</color>
+    <color name="chat_enter_bg">#efefef</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="violet_dis">#7E4AA7</color>
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="error_red">#db4437</color>
+    <color name="black">#434343</color>
+    <color name="black_90">#E6000000</color>
+    <color name="black_95">#F2000000</color>
+    <color name="black_transparent1">#cc000000</color>
+    <color name="black_transparent">#99000000</color>
+    <color name="black_70">#B3000000</color>
+
+    <color name="promotional_read">#b2b2b2</color>
+    <color name="chat_reciever_color">#b9dbf5</color>
+    <color name="chat_sender_color">#dbdbfc</color>
+
+    <color name="pager_selected_color">#2b6fb3</color>
+    <color name="pager_width_color">#2064A7</color>
+
+
+    <color name="color_white">#ffFFFFFF</color>
+    <color name="col_light">#f4f4f4</color>
+    <color name="color_black">#000000</color>
+    <color name="black_10">#1A000000</color>
+
+    <color name="tab_select_color">#FF5757</color>
+
+    <color name="background">#f4f4f4</color>
+    <color name="color_divider">#cecece</color>
+    <color name="color_text">#555</color>
+    <color name="color_country">#0080FF</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="color_grayLight">#eeeeee</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="text_color">#2192c4</color>
+
+
+
+    <!-- Action Bar Colors -->
+    <color name="actionbar_background">#009688</color>
+    <color name="actionbar_tabtitletext">#FFFFFF</color>
+    <color name="color_red">#b71c1c</color>
+
+
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+
+    <color name="black_30">#80000000</color>
+
+    <color name="header_bg">#4583ca</color>
+    <color name="header_bg1">#EBA420</color>
+    <color name="login_editext_text_color">@color/black</color>
+    <color name="login_editext_text_hint_color">@color/black</color>
+
+    <color name="recents_incoming_call">#6aca6b</color>
+    <color name="recents_missed_call">#ff5757</color>
+    <color name="recents_outgoing_call">#bc2829</color>
+
+    <color name="help_next">#FFE082</color>
+
+    <color name="alert_btn_yes_bg_color">@color/theme_color</color>
+
+    <color name="font_icon_hover">@color/white</color>
+    <color name="profile_page_bg">#eeeeee</color>
+    <color name="profile_image_default_bg">#363636</color>
+    <color name="chat_item_selected_color">#c5c4c4</color>
+    <color name="chat_item_normal_color">#00000000</color>
+    <color name="chat_options_color">@color/color_bg</color>
+    <color name="chat_background">#ffffff</color>
+    <color name="chat_image_title_color">#acbafa</color>
+
+
+    <color name="chat_sender_background">#e8e8e8</color>
+    <color name="chat_reciever_background">#b9dbf5</color>
+    <color name="profile_change_number_text">#3193e6</color>
+
+    <color name="text_reciver_side">#d122d1</color>
+
+
+
+
+
+</resources>
